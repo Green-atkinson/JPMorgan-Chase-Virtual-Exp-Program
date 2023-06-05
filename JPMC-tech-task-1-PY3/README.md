@@ -43,11 +43,7 @@
 	<li>Install all project dependencies. These are listed in the requirements.txt file.<br>&nbsp;</l</ul>
 
 <h2>How to Run</h2>
-	<p>To start the server, run</p>
-
-	<p>python server3.py</p>
-
-	<p>this will create random market called 'test.csv' in your working directory if one does not already exist.</p>
+	<p>To start the server, run <bold>python server3.py</bold> this will create random market called 'test.csv' in your working directory if one does not already exist.</p>
 
 	<p>When you’re in a work environment, you’ll usually receive tasks in the form of engineering tickets. Here is an example of what this task looks like in the form of an engineering ticket</p>
 	
