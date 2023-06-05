@@ -45,7 +45,7 @@
 <h2>How to Run</h2>
 	<p>To start the server, run</p>
 
-	python server3.py
+	<p>python server3.py</p>
 
 	<p>this will create random market called 'test.csv' in your working directory if one does not already exist.</p>
 
