@@ -42,7 +42,7 @@
 	<li>Create a new virtual environment in the project root. Pycharm can do this automatically for you using the “<a href="https://www.jetbrains.com/help/pycharm/configuring-python-interpreter.html" target="_blank"><span><u>configure python interpreter</u></span></a>” option in settings.<br>&nbsp;</li>
 	<li>Install all project dependencies. These are listed in the requirements.txt file.<br>&nbsp;</l</ul>
 
-<h2>How to Run</h2>
+
 	<p>To start the server, run <bold>python server3.py</bold> this will create random market called 'test.csv' in your working directory if one does not already exist.</p>
 
 	<p>When you’re in a work environment, you’ll usually receive tasks in the form of engineering tickets. Here is an example of what this task looks like in the form of an engineering ticket</p>
