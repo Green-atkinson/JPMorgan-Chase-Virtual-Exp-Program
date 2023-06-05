@@ -29,30 +29,3 @@
 	<li>Upload a git patch file as the submission to this task</li>
 	
 </ol>
-
-<h2 id="installation" >Set up / Installation</h2>
-
-<p>In order to get the server and client application code working on your machine, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/setup_devenv_m1_v6.pdf">follow the setup here</a></p>
-
-<h2>How to Run</h2>
-To start the server, run
-
-	python server3.py
-
-this will create random market called 'test.csv' in your working directory if one does not already exist.
-
-If you encounter an issue with `datautil.parser`, run this command: 
-
-	pip install python-dateutil
-
-If you don't have pip yet, you can install it from: https://pip.pypa.io/en/stable/installing/
-
-To start the example client, run:
-
-	python client3.py
-
-To unit test the example client, run:
-	python client_test.py
-
-<h2>How to submit your work</h2>
-<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME">JPM Module 1 Page</a>.</p>
