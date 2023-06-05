@@ -23,10 +23,6 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Technical Communications` 
 - `Financial Analysis`
 - `Web Applications`
-
-#### 4. Bonus task: Open source contribution
-- Make a contribution to Perspective or other projects backlogs 
-- `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
 ![New](https://github.com/Green-atkinson/JPMorgan-Chase-Virtual-Exp-Program/blob/4a5e8a3e2dc1538dca71eea86db867b647b295e3/Certificate%20of%20Completion%20-%20JPMorgan%20SWE.jpg)
