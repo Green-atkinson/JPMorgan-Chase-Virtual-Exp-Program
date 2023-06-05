@@ -27,4 +27,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
-![New]([https://user-images.githubusercontent.com/40789486/83999923-5a5ad900-a981-11ea-8b79-1c918da0e279.png](https://github.com/Green-atkinson/JPMorgan-Chase-Virtual-Exp-Program/blob/main/Certificate%20of%20Completion%20-%20JPMorgan%20SWE.jpg?raw=true))
+![New](https://github.com/Green-atkinson/JPMorgan-Chase-Virtual-Exp-Program/blob/4a5e8a3e2dc1538dca71eea86db867b647b295e3/Certificate%20of%20Completion%20-%20JPMorgan%20SWE.jpg)
