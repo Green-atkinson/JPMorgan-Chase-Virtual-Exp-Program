@@ -49,29 +49,16 @@ To start the server, run
 
 this will create random market called 'test.csv' in your working directory if one does not already exist.
 
-If you encounter an issue with `datautil.parser`, run this command: 
-
-	pip install python-dateutil
-
-If you don't have pip yet, you can install it from: https://pip.pypa.io/en/stable/installing/
-
-To start the example client, run:
-
-	python client3.py
-
-To unit test the example client, run:
-	python client_test.py
-
-<h2>How to request from the server using curl</h2>
-<!--See also [client.py](https://github.com/texodus/exchange_simulator/blob/master/client.py)-->
-Query:
-
-	$ curl 'http://localhost:8080/query?id=1'
-	{"id": "1", "top_ask": {"price": 129.18, "size": 70}, "timestamp": "2016-08-06 12:32:11.821574", "top_bid": {"price": 128.79, "size": 61}}
-
-<h2>How to fix the code to meet objectives</h2>
-<p>To make the changes necessary to complete the objectives of this task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/making_changes_m1_v4a.pdf">follow this guide</a>.</p>
-<p>To do the bonus task, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/client_test_m1_v1a.pdf">read this</a>.</p>
-
-<h2>How to submit your work</h2>
-<p>A patch file is what is required from you to submit. To create a patch file, <a href="https://insidesherpa.s3.amazonaws.com/vinternships/companyassets/Sj7temL583QAYpHXD/create_patch_file_v3a.pdf">follow this guide</a>. Then submit the patch file in the <a href="https://www.insidesherpa.com/modules/R5iK7HMxJGBgaSbvk/gtAhtcvke9AFCzqME">JPM Module 1 Page</a>.</p>
+	<p>When you’re in a work environment, you’ll usually receive tasks in the form of engineering tickets. Here is an example of what this task looks like in the form of an engineering ticket</p>
+	
+	<p><u>Purpose</u>
+	<br>
+		We want to process the data feed of stock A and stock B’s price to enable us to analyse when trading for the stock should occur.
+	</p>
+		
+	<p><u>Acceptance Criteria</u></p>
+	<ul>
+		<li><i>getDataPoint</i>&nbsp;function should return correct tuple of stock name, bid_price, ask_price and price. Note: price of a stock = average of bid and ask</li>
+		
+		<li><i>getRatio</i>&nbsp;function should return the ratio of the two stock prices</li><li>main function should output correct stock info, prices and ratio</li>
+	</ul>
