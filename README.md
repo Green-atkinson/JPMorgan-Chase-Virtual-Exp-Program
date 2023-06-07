@@ -14,7 +14,8 @@ This repository contains all the submitted patch files of the various tasks assi
 
 #### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Green-atkinson/JPMorgan-Chase-Virtual-Exp-Program/tree/main/JPMC-tech-task-2-PY3)
 - Implement the perspective open source code in prepration for data visualization 
-- `React js` 
+- `React.js` 
+- `Node.js`
 - `TypeScript`
 - `Web Applications`
 
