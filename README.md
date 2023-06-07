@@ -5,7 +5,7 @@ This repository contains all the submitted patch files of the various tasks assi
 ## I have worked on the following tasks during the program
 #### 1. Interface with a stock price data feed [Click here to see Task-1](https://github.com/Green-atkinson/JPMorgan-Chase-Virtual-Exp-Program/tree/main/JPMC-tech-task-1-PY3)
 - Interface with a stock price data feed and set your system for analysis of data
-- `Finalcial Data` 
+- `Finacial Data` 
 - `Python3`
 - `Git`
 - `Unit Testing`
@@ -13,7 +13,7 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Basic Programming`
 
 #### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Green-atkinson/JPMorgan-Chase-Virtual-Exp-Program/tree/main/JPMC-tech-task-2-PY3)
-- Implement the perspective open source code in prepration for data visualization 
+- Implement the perspective open source code in preparation for data visualization 
 - `React.js` 
 - `Node.js`
 - `TypeScript`
